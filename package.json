@@ -4,7 +4,7 @@
   "description": "Node.js community resource for encouraging and promoting in-person events.",
   "main": "build.js",
   "dependencies": {
-    "handlebars": "~1.0.12",
+    "handlebars": "~4.7.6",
     "marked": "~0.2.9"
   },
   "devDependencies": {
